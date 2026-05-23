@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/GradeStatistics/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GradeStatistics/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LiquidContainers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LiquidContainers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LiquidContainers2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LiquidContainers2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ReadyMadeSortingAlgorithms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ReadyMadeSortingAlgorithms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecipeSearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecipeSearch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Searching/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Searching/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sorting/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sorting/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ToDoList" />
+        <module name="SimpleDictionary" />
+        <module name="JokeManager" />
+        <module name="Cargohold" />
+        <module name="Stack" />
+        <module name="MessagingService" />
+        <module name="Averages" />
+        <module name="Calculator" />
+        <module name="HeightOrder" />
+        <module name="Collection" />
+        <module name="Exercises" />
+        <module name="Menu" />
+        <module name="SantasWorkshop" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="LongestInCollection" target="26" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

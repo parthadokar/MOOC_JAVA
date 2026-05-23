@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/LiquidContainers/pom.xml" />
+        <option value="$PROJECT_DIR$/LiquidContainers2/pom.xml" />
+        <option value="$PROJECT_DIR$/Sorting/pom.xml" />
+        <option value="$PROJECT_DIR$/ReadyMadeSortingAlgorithms/pom.xml" />
+        <option value="$PROJECT_DIR$/Searching/pom.xml" />
+        <option value="$PROJECT_DIR$/GradeStatistics/pom.xml" />
+        <option value="$PROJECT_DIR$/RecipeSearch/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="26" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

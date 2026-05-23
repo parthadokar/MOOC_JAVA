@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Menu/pom.xml" />
+        <option value="$PROJECT_DIR$/Stack/pom.xml" />
+        <option value="$PROJECT_DIR$/MessagingService/pom.xml" />
+        <option value="$PROJECT_DIR$/Collection/pom.xml" />
+        <option value="$PROJECT_DIR$/SantasWorkshop/pom.xml" />
+        <option value="$PROJECT_DIR$/LongestInCollection/pom.xml" />
+        <option value="$PROJECT_DIR$/HeightOrder/pom.xml" />
+        <option value="$PROJECT_DIR$/Cargohold/pom.xml" />
+        <option value="$PROJECT_DIR$/SimpleDictionary/pom.xml" />
+        <option value="$PROJECT_DIR$/ToDoList/pom.xml" />
+        <option value="$PROJECT_DIR$/Averages/pom.xml" />
+        <option value="$PROJECT_DIR$/JokeManager/pom.xml" />
+        <option value="$PROJECT_DIR$/Calculator/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercises/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/LongestInCollection/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="26" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
